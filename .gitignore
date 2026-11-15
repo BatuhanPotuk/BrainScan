@@ -1,0 +1,13 @@
+# Veri seti (Kaggle'dan ayrıca indirilir, repoya konmaz)
+data/
+
+# Eğitim çıktıları (notebook çalışınca yeniden üretilir; büyük .keras dosyaları GitHub'a uygun değil)
+outputs/
+
+# Python / Jupyter / IDE
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.idea/
+.vscode/
